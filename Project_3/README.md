@@ -1,11 +1,11 @@
 # SuperStore Profit/Loss Analysis
 
 ## Overview
-* The project task was to use Tableau to analyze centers of profit and loss for the store, and ways to increase profitability.
+* The project task was to use Tableau to analyze the store's centers of profit and loss and find ways to increase profitability.
 ## Accomplishments
-* Identified key ride-sharing patterns and passenger preferences for Zuber's Chicago launch by conducting exploratory data analysis using SQL and segmenting ride frequency by company and date range.
-* Uncovered company-specific trends in ride data by grouping and summarizing rides for Yellow and Blue taxi companies during a specific time period.
-* Provided insights into external factors impacting ride frequency by conducting hypothesis testing and data cleaning using SQL CASE statements to classify weather conditions.
-* Analyzed ride duration and weather conditions by extracting, joining, and aggregating relevant data from multiple tables, offering insights into factors affecting ride frequency.
-*  This report is available through Google Sheets
-  [click here](https://docs.google.com/document/d/10WDtiGhH8iF6sqdLBe8zazzS3iDi25Fu/edit?usp=sharing&ouid=100841982003595353804&rtpof=true&sd=true) to view the report
+* Improved profitability and cost reduction decision-making by delivering actionable insights and Tableau visualizations, providing clear recommendations on product investments based on profitability and return rate analysis.
+* Enhanced advertising strategy with optimal ad spend recommendations by analyzing monthly profit trends across states, developing visualizations, and calculating return on ad spend to guide decisions.
+* Reduced product return rates by identifying high-return products and customers through returned items analysis for SuperStore, cleaning and joining data to create visualizations for tracking return trends.
+* Supported project plans with data-driven insights through comprehensive analysis for SuperStore, presenting findings using advanced presentation skills.
+*  This report is available through Tableau Public
+  [click here](https://public.tableau.com/views/RidaFaizSprint4Project/Part1Questions13?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view it
