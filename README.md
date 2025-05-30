@@ -1,6 +1,5 @@
--# Data_projects_TripleTen
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
-
+## Data_projects_TripleTen
+These are some projects I worked on while attending the Business Intelligence Analyst Program at TripleTen. Click on the project numbers to open the projects.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
